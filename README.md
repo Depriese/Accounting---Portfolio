@@ -1,5 +1,12 @@
-# 📊 Accounting Portfolio — Depriese YoungLove
+<h1> 📊Accounting Portfolio <br/><a href="https://www.linkedin.com/in/depriese-young-love/">Depriese Young Love</a>
+
+  
 # Overview
+
+
+
+
+
 
 This repository contains accounting portfolio projects designed to demonstrate my skills in bookkeeping, financial reporting, and Excel-based analysis as I transition into an accounting-focused role.
 
